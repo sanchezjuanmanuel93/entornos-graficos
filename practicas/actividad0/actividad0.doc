@@ -1,0 +1,50 @@
+﻿Responder:
+
+1. Qué es la World Wide Web y cuáles son sus bases lógicas (Identificadores para
+localizar recursos, protocolos para acceder a ellos, hipertexto para navegar entre
+ellos)?
+2. Qué es el W3C, cuáles son sus objetivos y qué actividades desarrollan los
+grupos de trabajo?
+3. Qué es un estándar web? Ejemplos.
+4. En qué consiste el concepto de acceso universal?
+5. De qué se trata la evolución hacia una web con significado?
+6. Como se promueve la confianza en la web y a qué se debe su importancia?
+7. Qué es el charset UTF-8.?
+8. Cuál es la diferencia entre Web e Internet?
+9. En qué consiste el “gobierno de Internet” (Internet Governance) y qué es el
+ICANN?
+10. Cómo funciona el Sistema de Nombres de Dominio y qué es NIC Argentina?
+
+1 a 5. nacho
+
+6 a 10. Juan
+
+6.
+Confianza Online es un sistema de autorregulación público-privado de ámbito nacional bajo una forma jurídica de asociación sin fines de lucro. Los promotores privados de este sistema son la Asociación para la Autorregulación de la Comunicación Comercial y la Asociación Española de la Economía Digital, mientras que el promotor por parte del sector público es Red.es estos tres conforman los socios preferentes de Confianza Online.
+https://es.wikipedia.org/wiki/Confianza_Online
+
+7. Los formatos de codificacion de caracteres son un grupo de letras y simbolos utilizados en un sistema de escritura. 
+Existen varios estandares de charset, entre ellos, Unicode UTF-8. Las siglas UTF-8 se refieren a (Unicode Transformation Format 8-bit).
+Sus características principales son:
+Es capaz de representar cualquier carácter Unicode.
+Usa símbolos de longitud variable (de 1 a 4 bytes por carácter Unicode).
+Incluye la especificación ASCII de 7 bits, por lo que cualquier mensaje ASCII se representa sin cambios.
+
+
+8.
+
+El internet(o, también, la internet) es un conjunto descentralizado de redes de comunicación interconectadas que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen como una red lógica única de alcance mundial.
+Web es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles vía Internet.
+La diferencia es que internet es la red de conexiones entre servidoresy web es el sistema de navegación de páginas electrónicas.
+
+
+9.
+El gobierno de internet es el desarrollo y aplicación de los principios compartidos, normas, reglas, procedimientos de toma de decisiones y programas comunes que configuran la evolución y el uso de la Internet.
+Internet Corporation for Assigned Names and Numbers (ICANN) es una organización sin fines de lucro que opera a nivel internacional, responsable de asignar espacio de direcciones numéricas de protocolo de Internet (IP), identificadores de protocolo y de las funciones de gestión [o administración] del sistema de nombres de dominio de primer nivel genéricos (gTLD) y de códigos de países (ccTLD), así como de la administración del sistema de servidores raíz. Aunque en un principio estos servicios los desempeñaba Internet Assigned Numbers Authority (IANA) y otras entidades bajo contrato con el gobierno de EE.UU., actualmente son responsabilidad de ICANN.
+
+10.
+DNS es un sistema de nomenclatura jerárquica para dispositivos conectados a Internet o a una red privada. Este sistema asocia información variada con nombres de dominios asignado a cada uno de los participantes. Su función más importante es "traducir" nombres inteligibles para las personas en identificadores binarios asociados con los equipos conectados a la red, esto con el propósito de poder localizar y direccionar estos equipos mundialmente.
+
+https://es.wikipedia.org/wiki/UTF-8
+https://es.wikipedia.org/wiki/Unicode
+https://es.wikipedia.org/wiki/ISO_10646
